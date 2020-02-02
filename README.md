@@ -1,2 +1,2 @@
-# gti771
+# GTI 771
 Apprentissage machine avancé
